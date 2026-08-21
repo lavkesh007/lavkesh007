@@ -20,7 +20,7 @@
   <a href="https://github.com/lavkesh007">
     <img src="https://img.shields.io/badge/GitHub-lavkesh007-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/lavkesh-patil-4643b9254/">
     <img src="https://img.shields.io/badge/LinkedIn-Lavkesh%20Patil-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
