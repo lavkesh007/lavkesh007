@@ -1,229 +1,181 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=LAVKESH%20PATIL&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Backend%20Developer&descAlignY=62&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=LAVKESH%20PATIL&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=JAVA%20DEVELOPER%20%7C%20BACKEND%20DEVELOPER&descAlignY=62&descSize=18" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Java+Developer+%E2%98%95;Backend+Developer+%F0%9F%92%BB;Spring+Boot+Enthusiast+%F0%9F%8C%B1;SQL+%7C+JDBC+%7C+MySQL+%F0%9F%97%84%EF%B8%8F;Building+Real-World+Applications+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer+%E2%98%95;Backend+Developer+%F0%9F%92%BB;Spring+Boot+Enthusiast+%F0%9F%8C%B1;SQL+%7C+JDBC+%7C+MySQL+%F0%9F%97%84%EF%B8%8F;Always+Learning+%7C+Always+Building+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br><br>
 
 <a href="https://github.com/lavkesh007">
 <img src="https://img.shields.io/badge/GitHub-lavkesh007-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/lavkesh-patil-4643b9254/">
 <img src="https://img.shields.io/badge/LinkedIn-Lavkesh%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="mailto:patillavkesh763@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 👋 Hello Developers !!
+
+### I'm **Lavkesh Patil** 👨‍💻
+
+**Java Developer | Backend Developer | Software Developer**
+
+*Building applications, learning technologies, and improving every day.*
 
 </div>
 
 ---
 
-## 👋 About Me
+## ☕ About Me
 
-```java
-public class LavkeshPatil {
-
-    String role = "Java Developer";
-    String focus = "Backend Development";
-
-    String[] technologies = {
-        "Java",
-        "Spring Boot",
-        "JDBC",
-        "Hibernate",
-        "MySQL",
-        "REST APIs",
-        "Git & GitHub"
-    };
-
-    String[] interests = {
-        "Backend Development",
-        "Problem Solving",
-        "Data Structures & Algorithms",
-        "Database Design"
-    };
-
-    public void goal() {
-        System.out.println(
-            "Building reliable and scalable Java applications."
-        );
-    }
-}
-```
+<div align="center">
 
 🎓 **Computer Engineering Graduate**
 
-☕ Passionate about **Java and Backend Development**
+💻 Passionate about **Java & Backend Development**
 
-🌱 Currently strengthening my skills in **Spring Boot, Hibernate and REST APIs**
+🌱 Currently learning **Spring Boot, Hibernate & REST APIs**
 
-🗄️ Working with **MySQL, SQL and JDBC**
+🗄️ Working with **MySQL, SQL & JDBC**
 
 🧠 Practicing **Data Structures & Algorithms**
 
-🔧 Using **Git and GitHub** for version control
+🔧 Comfortable with **Git & GitHub**
 
-🎯 Looking for opportunities as a **Java Developer / Backend Developer**
+🚀 Looking for opportunities as a **Java Developer / Backend Developer**
+
+</div>
 
 ---
 
 # 🛠️ Tech Stack
 
-### ☕ Programming & Backend
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven"/>
-</p>
+### 💻 Programming
 
-### 🗄️ Database & APIs
+<img src="https://skillicons.dev/icons?i=java,python" />
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postman"/>
-</p>
+<br><br>
 
-### 🔧 Tools & Development
+### 🚀 Backend Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,idea,eclipse,vscode"/>
-</p>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
+
+<br><br>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+<br><br>
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse,idea" />
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
+# 📚 Currently Learning
 
-<table>
-<tr>
+<div align="center">
 
-<td width="50%">
+```text
+                    ☕ JAVA
+                      │
+          ┌───────────┼───────────┐
+          ↓           ↓           ↓
+         OOP     Collections   Multithreading
+          │
+          ↓
+         DSA
+          │
+          ▼
+    🌱 SPRING BOOT
+          │
+     ┌────┼────┐
+     ↓    ↓    ↓
+   REST  JPA  Hibernate
+     │
+     ▼
+  🗄️ MySQL
+     │
+     ▼
+    JDBC
+```
 
-### 🏦 Banking Management System
-
-Java-based banking application with database connectivity and transaction management.
-
-**Tech Stack**
-
-`Java` `JDBC` `MySQL` `SQL`
-
-**Key Features**
-
-* Account management
-* Deposit & withdrawal
-* Fund transfer
-* Transaction handling
-* Database operations
-
-</td>
-
-<td width="50%">
-
-### 👨‍💼 Employee Management System
-
-Desktop application for managing employee information using Java Swing.
-
-**Tech Stack**
-
-`Java` `Swing` `JDBC` `MySQL`
-
-**Key Features**
-
-* Add employee
-* Update employee
-* Delete employee
-* Search employee
-* Display employee records
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🎓 Student Management System
-
-Database-driven Java application for managing student information.
-
-**Tech Stack**
-
-`Java` `JDBC` `MySQL`
-
-**Key Features**
-
-* Add students
-* Update records
-* Delete records
-* Search students
-* CRUD operations
-
-</td>
-
-<td width="50%">
-
-### 🛒 E-Commerce Backend
-
-Backend application designed using Spring Boot and REST APIs.
-
-**Tech Stack**
-
-`Java` `Spring Boot` `REST API` `JPA` `MySQL`
-
-**Key Features**
-
-* User management
-* Product management
-* Order management
-* RESTful APIs
-* Database integration
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
 # 🧠 Data Structures & Algorithms
 
-Currently practicing problem solving with:
+<div align="center">
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Arrays-007396?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Strings-007396?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LinkedList-007396?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Stack%20%26%20Queue-007396?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Arrays-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Strings-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linked%20Lists-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stack%20%26%20Queue-007396?style=for-the-badge&logo=java&logoColor=white"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/HashMap%20%26%20HashSet-007396?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Trees-007396?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Recursion-007396?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Searching%20%26%20Sorting-007396?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HashMap%20%26%20HashSet-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trees-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Recursion-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Searching%20%26%20Sorting-007396?style=for-the-badge&logo=java&logoColor=white"/>
 
-</p>
+<br>
+
+<img src="https://img.shields.io/badge/Java%20Collections-007396?style=for-the-badge&logo=java&logoColor=white"/>
+
+</div>
 
 ---
 
-# 🌱 Currently Learning
+# 🎯 My Development Journey
 
 <div align="center">
 
-|        Technology       | Focus                            |
-| :---------------------: | :------------------------------- |
-|        ☕ **Java**       | OOP, Collections, Multithreading |
-|    🌱 **Spring Boot**   | Backend Application Development  |
-|     🔗 **REST APIs**    | API Development & Integration    |
-| 🗄️ **Hibernate / JPA** | ORM & Database Integration       |
-|       🐬 **MySQL**      | Database Design & SQL            |
-|        🧠 **DSA**       | Problem Solving & Algorithms     |
-|        🔧 **Git**       | Version Control & Collaboration  |
+```text
+        💻 Computer Engineering
+                  │
+                  ▼
+             ☕ Core Java
+                  │
+                  ▼
+             🧠 DSA & OOP
+                  │
+                  ▼
+             🗄️ SQL & JDBC
+                  │
+                  ▼
+           🌱 Spring Boot
+                  │
+                  ▼
+            🔗 REST APIs
+                  │
+                  ▼
+          🚀 Backend Development
+                  │
+                  ▼
+        💼 Java Developer
+```
 
 </div>
 
@@ -233,9 +185,9 @@ Currently practicing problem solving with:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lavkesh007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lavkesh007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="175"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavkesh007&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavkesh007&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
 
 </div>
 
@@ -245,7 +197,7 @@ Currently practicing problem solving with:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=lavkesh007&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=lavkesh007&theme=tokyonight&hide_border=true&border_radius=12" width="70%"/>
 
 </div>
 
@@ -261,34 +213,43 @@ Currently practicing problem solving with:
 
 ---
 
-# 🎯 2026 Goals
+# 🌱 2026 Goals
 
-* [x] Strengthen Core Java
-* [x] Practice JDBC & MySQL
-* [ ] Build production-ready Spring Boot applications
-* [ ] Develop REST APIs
-* [ ] Learn Hibernate & JPA deeply
-* [ ] Build an E-Commerce backend
-* [ ] Improve DSA & problem-solving skills
-* [ ] Contribute to Open Source
-* [ ] Start my career as a Java Developer
+<div align="center">
+
+|     | Goal                                     |
+| :-: | :--------------------------------------- |
+|  ☕  | Strengthen **Core Java**                 |
+|  🧠 | Improve **DSA & Problem Solving**        |
+|  🌱 | Master **Spring Boot**                   |
+|  🔗 | Build **REST APIs**                      |
+| 🗄️ | Improve **SQL & Database Design**        |
+|  🔥 | Learn **Hibernate & JPA**                |
+|  🔧 | Improve **Git & GitHub**                 |
+|  🚀 | Become a **Professional Java Developer** |
+
+</div>
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/lavkesh007">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+ 
 
 <a href="https://www.linkedin.com/in/lavkesh-patil-4643b9254/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+ 
+
 <a href="mailto:patillavkesh763@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -301,6 +262,12 @@ Currently practicing problem solving with:
 
 **Thanks for visiting my profile! ⭐**
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=lavkesh007&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
 </div>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
